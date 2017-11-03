@@ -1,0 +1,11 @@
+add the lac wrappers to the machine.py file
+cut out the unsupported hardware from machine.py
+add some dummy items
+add some dummy customers
+add dummy payment system
+collect a single value from the phidget board via python
+collect continuous values from the phidget board
+	 (for dispensing and  bowl recognition)
+add phidget software to machine.py
+communicate with the USD hardware board
+
